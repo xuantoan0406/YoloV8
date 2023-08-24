@@ -1,0 +1,4 @@
+*.pt
+assets/models
+*.pyc
+.idea
